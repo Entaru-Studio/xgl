@@ -11,7 +11,7 @@ XGL is a graphics library designed for more convenient creation and use of graph
 2. Paste it into your computer files
 3. Done
 ## Via wget
-1. Enter this command to the terminal `wget run https://raw.githubusercontent.com/Entaru-Studio/xgl/refs/heads/main/xgl.lua`
+1. Enter this command to the terminal `wget https://raw.githubusercontent.com/Entaru-Studio/xgl/refs/heads/main/xgl.lua`
 2. Done
 # Bugs
 Report any bugs you find in "Issues", or suggest your fixes via "Pull requests".
@@ -28,7 +28,7 @@ XGL это графическая библиотека, предназначен
 2. Вставьте его в файлы вашего компьютера
 3. Готово
 ## Через wget
-1. Введите эту команду в терминал `wget run https://raw.githubusercontent.com/Entaru-Studio/xgl/refs/heads/main/xgl.lua`
+1. Введите эту команду в терминал `wget https://raw.githubusercontent.com/Entaru-Studio/xgl/refs/heads/main/xgl.lua`
 2. Готово
 # Баги и ошибки
 Сообщайте нам о любых найденных багах и ошибках в "Issues", или предложите нам ваше исправление ошибки в "Pull requests".
